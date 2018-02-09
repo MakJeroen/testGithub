@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" jcr:primaryType="cq:Page" jcr:createdBy="admin" jcr:created="Fri Nov 10 2017 14:09:52 GMT+0000">
+<jcr:content jcr:primaryType="cq:PageContent" jcr:createdBy="admin" jcr:title="Search" cq:template="/apps/geometrixx/templates/forum" jcr:created="Fri Nov 10 2017 14:09:52 GMT+0000" cq:lastModified="Thu Oct 14 2010 14:14:36 GMT+0000" hideInNav="true" sling:resourceType="geometrixx/components/forum" cq:lastModifiedBy="admin">
+<par jcr:primaryType="nt:unstructured">
+<search jcr:primaryType="nt:unstructured" jcr:lastModifiedBy="admin" searchPaths="/content/geometrixx/en/community" jcr:lastModified="Thu Oct 14 2010 14:14:36 GMT+0000" sling:resourceType="social/commons/components/hbs/search" />
+</par>
+</jcr:content>
+</item>
